@@ -1,2 +1,2 @@
-# zarara.com
+# zarara.github.io
 tentang ciomas
